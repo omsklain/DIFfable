@@ -8,7 +8,6 @@ final class DIFItemTests: XCTestCase {
         
         let item = DIFItem(id: "0")
         XCTAssertNotEqual(item.hashValue, nil)
-        
     }
 
 }
