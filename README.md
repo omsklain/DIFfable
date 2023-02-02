@@ -1,3 +1,3 @@
 # DIFfable
 
-A description of this package.
+Один из подходов использования DiffableDataSource.
